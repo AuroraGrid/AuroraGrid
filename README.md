@@ -10,7 +10,8 @@ Public systems under KAHRELUM OS focus on AI evaluation, agent workflows, source
 
 ## Start here
 
-- [KAHRELUM OS architecture](https://github.com/AuroraGrid/kahrelum-os)
+- [KAHRELUM OS architecture](https://kahrelum-os.vercel.app/)
+- [Architecture repo](https://github.com/AuroraGrid/kahrelum-os)
 - [Research & Decision Systems](https://hasan-research-systems.vercel.app/) — public portfolio
 
 ## Modules
