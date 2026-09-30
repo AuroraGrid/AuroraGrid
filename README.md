@@ -2,7 +2,7 @@
 
 **Hasan Raza Kazmi** — Founder, KAHRELUM OS
 
-https://kahrelum-os.vercel.app/
+https://kahrelum.com
 
 KAHRELUM OS is the operating system for evidence-grounded AI and research work that must be traceable, decision-useful, and reviewed by a human before action.
 
@@ -12,7 +12,7 @@ Public systems under KAHRELUM OS focus on AI evaluation, agent workflows, source
 
 ## Start here
 
-- [KAHRELUM OS architecture](https://kahrelum-os.vercel.app/)
+- [KAHRELUM OS architecture](https://kahrelum.com)
 - [Architecture repo](https://github.com/AuroraGrid/kahrelum-os)
 - [Research & Decision Systems](https://hasan-research-systems.vercel.app/) — public portfolio
 
