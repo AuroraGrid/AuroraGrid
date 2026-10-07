@@ -2,17 +2,21 @@
 
 **Hasan Raza Kazmi** — Founder, KAHRELUM
 
-**Canonical site:** https://kahrelum.com
+**Canonical site:** https://kahrelum.com  
+**Pilot:** https://kahrelum.com/pilot  
+**Sample:** https://kahrelum.com/sample  
+**Contact:** hasan@kahrelum.com
 
 KAHRELUM is an evidence-to-decision system for forecasting, AI evaluation, research assurance, and decision support. It separates documented facts from inference, preserves uncertainty, attacks conclusions before action, and keeps an auditable record of what was known, inferred, and unresolved.
 
 ## Start here
 
-- [KAHRELUM OS](https://github.com/AuroraGrid/kahrelum-os) — canonical public architecture, evidence, and release-record surface
-- [Intel Tripwire](https://github.com/AuroraGrid/intel-tripwire) — staged operating-picture and source-health system
-- [RECORD LOCK](https://github.com/AuroraGrid/record-lock) — evidence verification and controlled publication
-- [Research & Decision Systems](https://github.com/AuroraGrid/research-decision-systems) — public portfolio and research systems
-- [AI Red-Team Dashboard](https://github.com/AuroraGrid/ai-red-team-dashboard) — model-behavior testing and evaluation
+1. [KAHRELUM OS](https://github.com/AuroraGrid/kahrelum-os) — canonical public architecture, evidence, release records, and current operating system
+2. [KAHRELUM pilot](https://kahrelum.com/pilot) — current commercial entry point
+3. [KAHRELUM sample](https://kahrelum.com/sample) — synthetic example of the deliverable format
+4. [RECORD LOCK](https://github.com/AuroraGrid/record-lock) — evidence verification and controlled publication
+5. [AI Red-Team Dashboard](https://github.com/AuroraGrid/ai-red-team-dashboard) — authorized model-behavior testing and evaluation
+6. [Intel Tripwire](https://github.com/AuroraGrid/intel-tripwire) — staged operating-picture and source-health system
 
 ## Current release
 
@@ -28,4 +32,4 @@ Public release record: [v2.3.4-final-public-record](https://github.com/AuroraGri
 
 Separate facts from inference. State what remains unproven. Document constraints and falsifiers. Do not confuse model confidence with accuracy.
 
-**Contact:** hasan@kahrelum.com
+Older AURORA GRID / Research & Decision Systems / GrindWire surfaces are predecessor work and are not current commercial entry points. Use **kahrelum.com** for the current system and offer.
