@@ -12,7 +12,7 @@ KAHRELUM is an evidence-to-decision system for forecasting, AI evaluation, resea
 ## Start here
 
 1. [KAHRELUM OS](https://github.com/AuroraGrid/kahrelum-os) — canonical public architecture, evidence, release records, and current operating system
-2. [KAHRELUM pilot](https://kahrelum.com/pilot) — current commercial entry point
+2. [KAHRELUM pilot](https://kahrelum.com/pilot) — current commercial entry point ($750 Fit Check / $2,500 Founding Pilot)
 3. [KAHRELUM sample](https://kahrelum.com/sample) — synthetic example of the deliverable format
 4. [RECORD LOCK](https://github.com/AuroraGrid/record-lock) — evidence verification and controlled publication
 5. [AI Red-Team Dashboard](https://github.com/AuroraGrid/ai-red-team-dashboard) — authorized model-behavior testing and evaluation
@@ -32,4 +32,4 @@ Public release record: [v2.3.4-final-public-record](https://github.com/AuroraGri
 
 Separate facts from inference. State what remains unproven. Document constraints and falsifiers. Do not confuse model confidence with accuracy.
 
-Older AURORA GRID / Research & Decision Systems / GrindWire surfaces are predecessor work and are not current commercial entry points. Use **kahrelum.com** for the current system and offer.
+**Commercial surfaces only.** Older AURORA GRID, Research & Decision Systems, GrindWire, and investigative/OSINT projects are predecessor or separate work. They are not current commercial entry points for KAHRELUM pilots. Use **kahrelum.com** for the current system and offer.
