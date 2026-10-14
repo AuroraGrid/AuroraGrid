@@ -5,6 +5,7 @@
 **Canonical site:** https://kahrelum.com  
 **Pilot:** https://kahrelum.com/pilot  
 **Sample:** https://kahrelum.com/sample  
+**LinkedIn:** https://www.linkedin.com/in/hasan-raza-kazmi-a756b4407/  
 **Contact:** hasan@kahrelum.com
 
 KAHRELUM is an evidence-to-decision system for forecasting, AI evaluation, research assurance, and decision support. It separates documented facts from inference, preserves uncertainty, attacks conclusions before action, and keeps an auditable record of what was known, inferred, and unresolved.
